@@ -21,6 +21,17 @@ My background spans business operations, sales leadership, digital transformatio
 - Led **8 sales managers and 40+ commission-based representatives**
 - Built and operated an entrepreneurial business generating approximately **$175K–$200K in peak annual revenue**
 
+## Featured Work
+
+### [Operations Transformation Case Studies](https://github.com/EricMendezAI/operations-transformation-case-studies)
+Real examples of diagnosing operating constraints, redesigning processes, aligning teams, and driving measurable improvement across revenue, retention, delivery efficiency, and digital transformation.
+
+### [AI Workflow Playbook](https://github.com/EricMendezAI/ai-workflow-playbook)
+Business-first frameworks for identifying AI opportunities, auditing workflows, designing human-in-the-loop systems, and measuring whether automation creates real operating leverage.
+
+### [Prompt Engineering Lab](https://github.com/EricMendezAI/prompt-engineering-lab)
+Structured experiments in prompt design, evaluation, source grounding, constraint setting, and reusable LLM patterns for practical business analysis.
+
 ## Professional Development
 
 Recent AI training includes:
